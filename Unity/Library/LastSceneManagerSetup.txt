@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/YOS DARK HOLE URP/DEMO SCENE.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
